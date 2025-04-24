@@ -1,4 +1,4 @@
-<?php
+<!-- <?php
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $secretKey = "YOUR_SECRET_KEY";
     $recaptchaResponse = $_POST['g-recaptcha-response'];
@@ -34,4 +34,4 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 } else {
     echo "Invalid request.";
 }
-?>
+?> -->
